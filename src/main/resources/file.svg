@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="40.00049px" height="37.000122px" viewBox="0 0 40.00049 37.000122" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-2-Copy" transform="translate(2.5 2.5)">
+    <path d="M20 26.5L-2.62312e-08 26.5L0 0L14.5 1.43529e-08L20 5.50012L31.5 5.50012L34.5 5.51227L34.5 13.5" id="Vector" fill="none" fill-rule="evenodd" stroke="#1462DC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="Group" transform="translate(27.500488 20.500122)">
+      <path d="M4 12L4 1" id="Line" fill="none" fill-rule="evenodd" stroke="#1462DC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M4 0L0 4" id="Vector-2" fill="none" fill-rule="evenodd" stroke="#1462DC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M4 0L8 4" id="Vector-3" fill="none" fill-rule="evenodd" stroke="#1462DC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
