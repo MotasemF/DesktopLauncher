@@ -16,7 +16,7 @@
 
 | Platform | Download                                                     | Status       |
 | -------- | ------------------------------------------------------------ | ------------ |
-| Linux    | [![Download Button](https://img.shields.io/badge/linux-1.0.0-blue)]([https://github.com/theapache64/stackzy/releases/latest](https://github.com/MotasemF/DesktopLauncher/releases)) | Experimental |
+| Linux    | [![Download Button](https://img.shields.io/badge/linux-1.0.0-blue)]([https://github.com/MotasemF/DesktopLauncher/releases](https://github.com/MotasemF/DesktopLauncher/releases)) | Experimental |
 
 or run from the source follow these steps to get started
 
